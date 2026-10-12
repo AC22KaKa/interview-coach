@@ -1,0 +1,4 @@
+{
+  "resume": "我开发了论文检索 Agent，负责查询构建、结果去重和展示。另一个项目用 Python、Streamlit、OpenAI SDK 和 Pydantic 将原始经历转换为匹配 JD 的简历 bullet，使用 JSON 校验和一次修复重试；缺少指标时显示占位符，没有测量过用户数或延迟提升。",
+  "jd": "AI 应用开发实习生：熟悉 Python、LLM API、结构化输出、多轮对话、测试和应用部署。能够解释技术选型并分析失败案例。"
+}
